@@ -10,7 +10,8 @@
         "code": "IND"
       }
     },
-    "action": "search",
+    "action": "on_search",
+    "ttl": "PT30M",
     "version": "2.0.0",
     "bap_id": "ondc-mf.prod.platform.aws.assetplus.in",
     "bap_uri": "https://ondc-mf.prod.platform.aws.assetplus.in/protocol",
